@@ -4,7 +4,7 @@
 
 **ROC-AUC на тестовой выборке — 0.766 при требовании не ниже 0.75.**
 
-Итоговый проект курса **Machine Learning Junior** (Skillbox). Полное исследование, код и сохранённые результаты представлены в [ноутбуке](ml_final_project.ipynb).
+Итоговый проект курса **Machine Learning** (Skillbox). Полное исследование представлено в ноутбуке [ml_final_project.ipynb](ml_final_project.ipynb).
 
 ## Данные
 
